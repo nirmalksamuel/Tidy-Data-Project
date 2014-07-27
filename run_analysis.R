@@ -184,6 +184,7 @@ run_analysis = function() {
 			    FUN= mean)
 	 names  ( tidydf ) [1] = "Activity"  # Change to meaningful names.
 	 names  ( tidydf ) [2] = "Subject_ID"
+	 write.table(  tidydf, file="tidydf.txt"  )
 	 return ( tidydf )
 }
 
