@@ -106,112 +106,112 @@ as the last item in this Code Book, to avoid  boreddom in reading. Note
 that I have mentioned mean() and std() terms at end of the variable name,
 because those two were the items, extracted to form the tidy data.
 
-	1. tBodyAcc-XYZ-mean() & std()		have been changed to
+	1. tBodyAcc-XYZ-mean() & std()		have been changed to   
 		Time_domain_Body_Acceleration_mean_Xaxis
 		Time_domain_Body_Acceleration_mean_Yaxis
 		Time_domain_Body_Acceleration_mean_Zaxis
 		Time_domain_Body_Acceleration_std_Xaxis
 		Time_domain_Body_Acceleration_std_Yaxis
 		Time_domain_Body_Acceleration_std_Zaxis
-	2. tGravityAcc-XYZ-mean() & std()		have been changed to
+	2. tGravityAcc-XYZ-mean() & std()		have been changed to   
 		Time_domain_Gravity_Acceleration_mean_Xaxis
 		Time_domain_Gravity_Acceleration_mean_Yaxis
 		Time_domain_Gravity_Acceleration_mean_Zaxis
 		Time_domain_Gravity_Acceleration_std_Xaxis
 		Time_domain_Gravity_Acceleration_std_Yaxis
 		Time_domain_Gravity_Acceleration_std_Zaxis
-	3. tBodyAccJerk-XYZ-mean() & std()		have been changed to
+	3. tBodyAccJerk-XYZ-mean() & std()		have been changed to      
 		Time_domain_Body_Acceleration_Jerk_mean_Xaxis
 		Time_domain_Body_Acceleration_Jerk_mean_Yaxis
 		Time_domain_Body_Acceleration_Jerk_mean_Zaxis
 		Time_domain_Body_Acceleration_Jerk_std_Xaxis
 		Time_domain_Body_Acceleration_Jerk_std_Yaxis
 		Time_domain_Body_Acceleration_Jerk_std_Zaxis
-	4. tBodyGyro-XYZ-mean() & std()		have been changed to
+	4. tBodyGyro-XYZ-mean() & std()		have been changed to   
 		Time_domain_Body_Gyroscope_mean_Xaxis
 		Time_domain_Body_Gyroscope_mean_Yaxis
 		Time_domain_Body_Gyroscope_mean_Zaxis
 		Time_domain_Body_Gyroscope_std_Xaxis
 		Time_domain_Body_Gyroscope_std_Yaxis
 		Time_domain_Body_Gyroscope_std_Zaxis
-	5. tBodyGyroJerk-XYZ-mean() & std()		have been changed to
+	5. tBodyGyroJerk-XYZ-mean() & std()		have been changed to   
 		Time_domain_Body_Gyroscope_Jerk_mean_Xaxis
 		Time_domain_Body_Gyroscope_Jerk_mean_Yaxis
 		Time_domain_Body_Gyroscope_Jerk_mean_Zaxis
 		Time_domain_Body_Gyroscope_Jerk_std_Xaxis
 		Time_domain_Body_Gyroscope_Jerk_std_Yaxis
 		Time_domain_Body_Gyroscope_Jerk_std_Zaxis
-	6. tBodyAccMag-mean() & std()		have been changed to
+	6. tBodyAccMag-mean() & std()		have been changed to      
 		Time_domain_Body_Acceleration_Magnitude_mean_Xaxis
 		Time_domain_Body_Acceleration_Magnitude_mean_Yaxis
 		Time_domain_Body_Acceleration_Magnitude_mean_Zaxis
 		Time_domain_Body_Acceleration_Magnitude_std_Xaxis
 		Time_domain_Body_Acceleration_Magnitude_std_Yaxis
 		Time_domain_Body_Acceleration_Magnitude_std_Zaxis
-	7. tGravityAccMag-mean() & std()		have been changed to
+	7. tGravityAccMag-mean() & std()		have been changed to   
 		Time_domain_Gravity_Acceleration_Magnitude_mean_Xaxis
 		Time_domain_Gravity_Acceleration_Magnitude_mean_Yaxis
 		Time_domain_Gravity_Acceleration_Magnitude_mean_Zaxis
 		Time_domain_Gravity_Acceleration_Magnitude_std_Xaxis
 		Time_domain_Gravity_Acceleration_Magnitude_std_Yaxis
 		Time_domain_Gravity_Acceleration_Magnitude_std_Zaxis
-	8. tBodyAccJerkMag-mean() & std()		have been changed to
+	8. tBodyAccJerkMag-mean() & std()		have been changed to   
 		Time_domain_Body_Acceleration_Jerk_mean_Xaxis
 		Time_domain_Body_Acceleration_Jerk_mean_Yaxis
 		Time_domain_Body_Acceleration_Jerk_mean_Zaxis
 		Time_domain_Body_Acceleration_Jerk_std_Xaxis
 		Time_domain_Body_Acceleration_Jerk_std_Yaxis
 		Time_domain_Body_Acceleration_Jerk_std_Zaxis
-	11.tBodyGyroJerkMag-mean() & std()		have been changed to
+	11.tBodyGyroJerkMag-mean() & std()		have been changed to   
 		Time_domain_Body_Gyroscope_mean_Xaxis
 		Time_domain_Body_Gyroscope_mean_Yaxis
 		Time_domain_Body_Gyroscope_mean_Zaxis
 		Time_domain_Body_Gyroscope_std_Xaxis
 		Time_domain_Body_Gyroscope_std_Yaxis
 		Time_domain_Body_Gyroscope_std_Zaxis
-	12. fBodyAcc-XYZ-mean() & std()		have been changed to
+	12. fBodyAcc-XYZ-mean() & std()		have been changed to   
 		Freq_domain_Body_Acceleration_mean_Xaxis
 		Freq_domain_Body_Acceleration_mean_Xaxis
 		Freq_domain_Body_Acceleration_mean_Xaxis
 		Freq_domain_Body_Acceleration_std_Xaxis
 		Freq_domain_Body_Acceleration_std_Xaxis
 		Freq_domain_Body_Acceleration_std_Xaxis
-	13. fBodyAccJerk-XYZ-mean() & std()		have been changed to
+	13. fBodyAccJerk-XYZ-mean() & std()		have been changed to   
 		Freq_domain_Body_Acceleration_Jerk_mean_Xaxis
 		Freq_domain_Body_Acceleration_Jerk_mean_Yaxis
 		Freq_domain_Body_Acceleration_Jerk_mean_Zaxis
 		Freq_domain_Body_Acceleration_Jerk_std_Xaxis
 		Freq_domain_Body_Acceleration_Jerk_std_Yaxis
 		Freq_domain_Body_Acceleration_Jerk_std_Zaxis
-	14. fBodyGyro-XYZ-mean() & std()		have been changed to
+	14. fBodyGyro-XYZ-mean() & std()		have been changed to   
 		Freq_domain_Body_Gyroscope_mean_Xaxis
 		Freq_domain_Body_Gyroscope_mean_Yaxis
 		Freq_domain_Body_Gyroscope_mean_Zaxis
 		Freq_domain_Body_Gyroscope_std_Xaxis
 		Freq_domain_Body_Gyroscope_std_Yaxis
 		Freq_domain_Body_Gyroscope_std_Zaxis
-	15. fBodyAccMag-mean() & std()		have been changed to
+	15. fBodyAccMag-mean() & std()		have been changed to   
 		Freq_domain_Body_Acceleration_Magnitude_mean_Xaxis
 		Freq_domain_Body_Acceleration_Magnitude_mean_Yaxis
 		Freq_domain_Body_Acceleration_Magnitude_mean_Zaxis
 		Freq_domain_Body_Acceleration_Magnitude_std_Xaxis
 		Freq_domain_Body_Acceleration_Magnitude_std_Yaxis
 		Freq_domain_Body_Acceleration_Magnitude_std_Zaxis
-	16. fBodyAccJerkMag-mean() & std()		have been changed to
+	16. fBodyAccJerkMag-mean() & std()		have been changed to   
 		Freq_domain_Body_Acceleration_Jerk_Magnitude_mean_Xaxis
 		Freq_domain_Body_Acceleration_Jerk_Magnitude_mean_Yaxis
 		Freq_domain_Body_Acceleration_Jerk_Magnitude_mean_Zaxis
 		Freq_domain_Body_Acceleration_Jerk_Magnitude_std_Xaxis
 		Freq_domain_Body_Acceleration_Jerk_Magnitude_std_Yaxis
 		Freq_domain_Body_Acceleration_Jerk_Magnitude_std_Zaxis
-	17. fBodyGyroMag-mean() & std()		have been changed to
+	17. fBodyGyroMag-mean() & std()		have been changed to   
 		Freq_domain_Body_Gyroscope_Magnitude_mean_Xaxis
 		Freq_domain_Body_Gyroscope_Magnitude_mean_Yaxis
 		Freq_domain_Body_Gyroscope_Magnitude_mean_Zaxis
 		Freq_domain_Body_Gyroscope_Magnitude_std_Xaxis
 		Freq_domain_Body_Gyroscope_Magnitude_std_Yaxis
 		Freq_domain_Body_Gyroscope_Magnitude_std_Zaxis
-	18. fBodyGyroJerkMag-mean() & std()		have been changed to
+	18. fBodyGyroJerkMag-mean() & std()		have been changed to   
 		Freq_domain_Body_Gyroscope_Jerk_Magnitude_mean_Xaxis
 		Freq_domain_Body_Gyroscope_Jerk_Magnitude_mean_Yaxis
 		Freq_domain_Body_Gyroscope_Jerk_Magnitude_mean_Zaxis

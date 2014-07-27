@@ -1,5 +1,7 @@
 
-##	README  file for  Getting and Cleaning Data - Course Project
+###	README  file for  Project done in
+###	Course : Getting and Cleaning Data  by  John Hopkins U. 
+==================================================================
 
 The data was collected from the accelerometers from the Samsung 
 Galaxy S smartphone. A full description is available at the site 
@@ -17,11 +19,11 @@ understanding more about the program, please read CodeBook.md
 
 
 
-The starting (original) dataset includes the following files:
-=========================================
+###  The starting (original) dataset includes the following Code Books:
+==================================================================
 
 - 'README.txt'
-- 'features_info.txt': Shows information about the variables used on the feature vector.
+- 'features_info.txt': Shows information about the variables used on the feature vector.:
 - 'features.txt': List of all features.
 - activity_labels.txt: Links the class labels with their activity name.
 - 'train/X_train.txt': Training set.
